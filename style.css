@@ -1,1 +1,46 @@
+ <style>
+    #hi3{
+        
+       color:blueviolet ;
+       font-size: 30px;
+
+        }
+    #hi{
+        color:rgb(107, 149, 199);
+        font-size: 32px;
+    }
+
+    #hi2{
+        font-size: 35px;
+        background-color:greenyellow;
+        font-style: bold;
+    }
+    #wholething {
+        background-color: lightskyblue;
+        text-allign: center;
+        font-style: italic;
+    }
+    #hawo{
+        background-color: yellow;
+        font-size: 50px;
+    }
+
+    
+    .beaches{
+        color: blue;
+        font-style: bold;
+         font-size: 25px;
+    }
+    #beach{
+        color: seagreen;
+        font-size: 42px;
+        font-style: italic;
+    }
+    h2{
+        background-color:skyblue;
+    }
+
+
+        
+    </style>
 
