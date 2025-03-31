@@ -1,62 +1,51 @@
- <style>
-      
-        body {
-            background-color: lightblue;
-            
-        }
-        .hi {
-            background-color: rgb(255, 218, 185);
-        }
-        th {
-            padding: 10px;
-            color: orange;
-        }
-        #hi {
-            background-color: rgb(255, 218, 185);
-            border: 12px solid black;
-        }
-        p {
-            color: blue;
-            background: rgb(219, 235, 255);
-            height: 200px;
-            width: 70%;
-            overflow-y: auto;
-            overflow-x: hidden;
-            font-size: 20px;
-            border: 12px solid black;
-            padding: 10px;
-            font-family: Arial, sans-serif;
+<style>
+    body {
+        background-color: lightblue;
+    }
 
-        }
-        h2 {
-            background-color: rgb(255, 218, 185);
-            border: 12px solid black;
-            padding: 10px;
-        }
-        td {
-            padding: 10px;
-        }
-        .pie {
-            border: 12px solid black;
-            padding: 10px;
-            color: blue;
-            background: rgb(219, 235, 255);
-            height: 200px;
-            width: 70%;
-            overflow-y: auto;
-            overflow-x: hidden;
-            font-size: 20px;
-            font-family: Arial, sans-serif;
+    #hi {
+        background-color: rgb(255, 218, 185);
+        border: 12px solid black;
+    }
 
-}
+    th {
+        padding: 10px;
+        color: orange;
+    }
 
+    p {
+        color: blue;
+        background: rgb(219, 235, 255);
+        height: 200px;
+        width: 70%;
+        overflow-y: auto;
+        overflow-x: hidden;
+        font-size: 20px;
+        border: 12px solid black;
+        padding: 10px;
+        font-family: Arial, sans-serif;
+    }
 
-.pie p {
-    border: none;
-    
-}
+    h2 {
+        background-color: rgb(255, 218, 185);
+        border: 12px solid black;
+        padding: 10px;
+    }
 
+    td {
+        padding: 10px;
+    }
 
-}
-
-    </style>
+    .pie {
+        border: 12px solid black;
+        padding: 10px;
+        color: blue;
+        background: rgb(219, 235, 255);
+        height: 200px;
+        width: 70%;
+        overflow-y: auto;
+        overflow-x: hidden;
+        font-size: 20px;
+        font-family: Arial, sans-serif;
+    }
+</style>
