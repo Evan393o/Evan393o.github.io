@@ -1,46 +1,62 @@
  <style>
-    #hi3{
-        
-       color:blueviolet ;
-       font-size: 30px;
+        /* Evan  2025-03-30  */
+        #wholething {
+            background-color: lightblue;
+            
+        }
+        .hi {
+            background-color: rgb(255, 218, 185);
+        }
+        th {
+            padding: 10px;
+            color: orange;
+        }
+        #hi {
+            background-color: rgb(255, 218, 185);
+            border: 12px solid black;
+        }
+        p {
+            color: blue;
+            background: rgb(219, 235, 255);
+            height: 200px;
+            width: 70%;
+            overflow-y: auto;
+            overflow-x: hidden;
+            font-size: 20px;
+            border: 12px solid black;
+            padding: 10px;
+            font-family: Arial, sans-serif;
 
         }
-    #hi{
-        color:rgb(107, 149, 199);
-        font-size: 32px;
-    }
+        h2 {
+            background-color: rgb(255, 218, 185);
+            border: 12px solid black;
+            padding: 10px;
+        }
+        td {
+            padding: 10px;
+        }
+        .pie {
+            border: 12px solid black;
+            padding: 10px;
+            color: blue;
+            background: rgb(219, 235, 255);
+            height: 200px;
+            width: 70%;
+            overflow-y: auto;
+            overflow-x: hidden;
+            font-size: 20px;
+            font-family: Arial, sans-serif;
 
-    #hi2{
-        font-size: 35px;
-        background-color:greenyellow;
-        font-style: bold;
-    }
-    #wholething {
-        background-color: lightskyblue;
-        text-allign: center;
-        font-style: italic;
-    }
-    #hawo{
-        background-color: yellow;
-        font-size: 50px;
-    }
+}
 
+
+.pie p {
+    border: none;
     
-    .beaches{
-        color: blue;
-        font-style: bold;
-         font-size: 25px;
-    }
-    #beach{
-        color: seagreen;
-        font-size: 42px;
-        font-style: italic;
-    }
-    h2{
-        background-color:skyblue;
-    }
+}
 
 
-        
+}
+
     </style>
-
